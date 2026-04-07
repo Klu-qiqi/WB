@@ -1,0 +1,11 @@
+.git
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+.DS_Store
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+saved_models/
+submissions_all_hypotheses/
